@@ -15,97 +15,102 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\Phase 2 Mostafa\Phase 2 Mostafa\Mostafa Phase 2 Codes\Action.h">
+    <ClInclude Include="Action.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\Phase 2 Mostafa\Phase 2 Mostafa\Mostafa Phase 2 Codes\ArrayStack.h">
+    <ClInclude Include="ArrayStack.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\Phase 2 Mostafa\Phase 2 Mostafa\Mostafa Phase 2 Codes\CancelAction.h">
+    <ClInclude Include="CancelAction.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\Phase 2 Mostafa\Phase 2 Mostafa\Mostafa Phase 2 Codes\Chef.h">
+    <ClInclude Include="Chef.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\Phase 2 Mostafa\Phase 2 Mostafa\Mostafa Phase 2 Codes\Cooking_Orders.h">
+    <ClInclude Include="Cooking_Orders.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\Phase 2 Mostafa\Phase 2 Mostafa\Mostafa Phase 2 Codes\Fit_Tables.h">
+    <ClInclude Include="Fit_Tables.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\Phase 2 Mostafa\Phase 2 Mostafa\Mostafa Phase 2 Codes\LinkedQueue.h">
+    <ClInclude Include="LinkedQueue.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\Phase 2 Mostafa\Phase 2 Mostafa\Mostafa Phase 2 Codes\Node.h">
+    <ClInclude Include="Node.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\Phase 2 Mostafa\Phase 2 Mostafa\Mostafa Phase 2 Codes\Order.h">
+    <ClInclude Include="Order.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\Phase 2 Mostafa\Phase 2 Mostafa\Mostafa Phase 2 Codes\Pend_OVC.h">
+    <ClInclude Include="Pend_OVC.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\Phase 2 Mostafa\Phase 2 Mostafa\Mostafa Phase 2 Codes\priNode.h">
+    <ClInclude Include="priNode.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\Phase 2 Mostafa\Phase 2 Mostafa\Mostafa Phase 2 Codes\priQueue.h">
+    <ClInclude Include="priQueue.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\Phase 2 Mostafa\Phase 2 Mostafa\Mostafa Phase 2 Codes\QueueADT.h">
+    <ClInclude Include="QueueADT.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\Phase 2 Mostafa\Phase 2 Mostafa\Mostafa Phase 2 Codes\RDY_OV.h">
+    <ClInclude Include="RDY_OV.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\Phase 2 Mostafa\Phase 2 Mostafa\Mostafa Phase 2 Codes\RequestAction.h">
+    <ClInclude Include="RequestAction.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\Phase 2 Mostafa\Phase 2 Mostafa\Mostafa Phase 2 Codes\Restaurant.h">
+    <ClInclude Include="Restaurant.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\Phase 2 Mostafa\Phase 2 Mostafa\Mostafa Phase 2 Codes\Scooter.h">
+    <ClInclude Include="Scooter.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\Phase 2 Mostafa\Phase 2 Mostafa\Mostafa Phase 2 Codes\StackADT.h">
+    <ClInclude Include="StackADT.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\Phase 2 Mostafa\Phase 2 Mostafa\Mostafa Phase 2 Codes\Table.h">
+    <ClInclude Include="Table.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\Phase 2 Mostafa\Phase 2 Mostafa\Mostafa Phase 2 Codes\UI.h">
+    <ClInclude Include="UI.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\Phase 2 Mostafa\Phase 2 Mostafa\Mostafa Phase 2 Codes\Action.cpp">
+    <ClCompile Include="Action.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\Phase 2 Mostafa\Phase 2 Mostafa\Mostafa Phase 2 Codes\CancelAction.cpp">
+    <ClCompile Include="CancelAction.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\Phase 2 Mostafa\Phase 2 Mostafa\Mostafa Phase 2 Codes\Chef.cpp">
+    <ClCompile Include="Chef.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\Phase 2 Mostafa\Phase 2 Mostafa\Mostafa Phase 2 Codes\main.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\Phase 2 Mostafa\Phase 2 Mostafa\Mostafa Phase 2 Codes\Order.cpp">
+    <ClCompile Include="Order.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\Phase 2 Mostafa\Phase 2 Mostafa\Mostafa Phase 2 Codes\RequestAction.cpp">
+    <ClCompile Include="RequestAction.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\Phase 2 Mostafa\Phase 2 Mostafa\Mostafa Phase 2 Codes\Restaurant.cpp">
+    <ClCompile Include="Restaurant.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\Phase 2 Mostafa\Phase 2 Mostafa\Mostafa Phase 2 Codes\Scooter.cpp">
+    <ClCompile Include="Scooter.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\Phase 2 Mostafa\Phase 2 Mostafa\Mostafa Phase 2 Codes\Table.cpp">
+    <ClCompile Include="Table.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\Phase 2 Mostafa\Phase 2 Mostafa\Mostafa Phase 2 Codes\UI.cpp">
+    <ClCompile Include="UI.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="input.txt">
+      <Filter>Source Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>
