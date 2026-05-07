@@ -1,0 +1,32 @@
+TF	ID	TQ	TA	TR	TS	Ti	Tc	Tw	Tserv
+========== STATISTICS ==========
+
+Total number of orders: 0
+ODG: 0
+ODN: 0
+OT: 0
+OVC: 0
+OVN: 0
+OVG: 0
+
+Total number of chefs: 0
+CS: 0
+CN: 0
+
+Total number of scooters: 0
+
+Percentage of finished orders: 0%
+Percentage of cancelled orders: 0%
+
+Percentage of overwait orders: 0%
+
+Average Ti: 0
+Average Tc: 0
+Average Tw: 0
+Average Tserv: 0
+
+Scooter utilization: 0%
+
+Chef utilization: 0%
+
+========================================
